@@ -240,3 +240,5 @@ html.amp-motion .steps > :not(.is-lit) { opacity: 0.45; }
 .legal a { color: var(--mocha); }
 .tbc { background: #FFE9A8; color: var(--ink); padding: 1px 6px; border-radius: 4px; font-size: 0.85em; font-weight: 500; }
 @media (max-width: 960px) { .legal-nav { display: none; } }
+.contact-line { margin-top: 18px; font-size: 0.97rem; }
+.contact-line a { color: var(--mocha); }
